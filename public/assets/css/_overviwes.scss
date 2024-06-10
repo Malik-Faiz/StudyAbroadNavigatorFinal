@@ -1,0 +1,66 @@
+.bg-img-white{
+    .overviwe-tab .active{
+        border-left: solid 2px var(--bs-primary);
+        color:var(--bs-primary);
+        svg{
+            fill: var(--bs-primary);
+        }
+    }
+    ul li{
+        cursor: pointer;
+        &:hover{
+            color:var(--bs-primary);
+            svg{
+                fill: var(--bs-primary);
+            }
+        }
+    }
+}
+.Admin-img
+{
+border-radius: 10px;
+object-fit: cover;
+width: 100px;
+height: 100px;
+}
+.CompletedJobs{
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: var( --bs-body-bg);
+}
+.CenterBorder{
+    border-right:dashed .5px $text-disable;
+}
+.deo-img{
+    border: solid 1px var(--bs-primary);
+    border-radius:50%;
+    padding: 2px;
+}
+.bg-color-danger{
+    background-image: url('../images/overviwes/img-red.webp');
+    background-repeat: no-repeat;
+    background-position: right top; 
+    background-color: var(--bs-light-danger-bg);
+}
+.bg-color-warning{
+    background-image: url('../images/overviwes/img-orange.webp');
+    background-repeat: no-repeat;
+    background-position: right top; 
+    background-color: var(--bs-light-warning-bg);
+}
+.bg-color-primary{
+    background-image: url('../images/overviwes/img-green.webp');
+    background-repeat: no-repeat;
+    background-position: right top; 
+    background-color: var(--bs-light-primary-bg);
+}
+.bg-color-info{
+    background-image: url('../images/overviwes/img-blue.webp');
+    background-repeat: no-repeat;
+    background-position: right top; 
+    background-color: var(--bs-light-info-bg);
+}
+.overflow-auto{
+    height: 383px;
+}

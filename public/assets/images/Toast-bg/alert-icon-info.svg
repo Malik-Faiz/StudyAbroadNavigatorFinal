@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <linearGradient id="levncnlwua" x1=".793" y1=".828" x2=".235" y2=".117" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#4887f3"/>
+            <stop offset="1" stop-color="#81c4ff"/>
+        </linearGradient>
+        <clipPath id="qse2slw3xb">
+            <path data-name="Rectangle 870" transform="translate(19207 15840)" style="fill:none;stroke:#707070" d="M0 0h14v14H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 13030" transform="translate(-19199 -15833)">
+        <rect data-name="Rectangle 869" width="30" height="30" rx="15" transform="translate(19199 15833)" style="fill:url(#levncnlwua)"/>
+        <g data-name="Mask Group 125" transform="translate(0 1)" style="clip-path:url(#qse2slw3xb)">
+            <g data-name="Group 13483">
+                <path data-name="Path 9248" d="M-4150.917-3743.238a14.358 14.358 0 0 1-.474 3.845 3.526 3.526 0 0 1-2.163 2.367 10.217 10.217 0 0 1-4.328.683 10.683 10.683 0 0 1-2.855-.483 3.865 3.865 0 0 1-2.839-3.142 13.824 13.824 0 0 1 .045-5.825 3.781 3.781 0 0 1 2.673-2.932 10.949 10.949 0 0 1 4.782-.458 12.475 12.475 0 0 1 1.92.4 3.776 3.776 0 0 1 2.929 3.224c.15.909.246 1.831.31 2.321zm-7.137 2.671c-.085.03-.151.051-.216.077a.627.627 0 0 0-.414.666.572.572 0 0 0 .507.557 12.637 12.637 0 0 0 1.539 0 .577.577 0 0 0 .517-.549.591.591 0 0 0-.406-.665c-.208-.061-.229-.17-.227-.349q.01-1.105 0-2.209a.66.66 0 0 0-.735-.728h-.484a.65.65 0 0 0-.705.527.649.649 0 0 0 .467.746c.065.027.148.111.15.171.012.586.007 1.169.007 1.756zm1.451-4.81a.8.8 0 0 0-.8-.811.8.8 0 0 0-.8.785.8.8 0 0 0 .786.829.8.8 0 0 0 .817-.803z" style="fill:#fff" transform="translate(23371.391 19589.68)"/>
+            </g>
+        </g>
+    </g>
+</svg>

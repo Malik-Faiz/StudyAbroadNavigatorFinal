@@ -1,0 +1,31 @@
+.property-imgs{ 
+  box-shadow: 0px 0px 15px 10px rgba(155, 157, 197, 0.05);
+  width: 105px;
+  border-width: 0px !important;
+  padding: 0px !important;
+}
+.uploaded-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+} 
+.del-icon{   
+  position: absolute;   
+  transition: 0.5s ease;   
+  height: 20px;   
+  width: 20px;   
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bs-white);
+  box-shadow: 0px 0px 15px 10px rgba(155, 157, 197, 0.05);
+  top: -10px;   
+  right: -10px;      
+opacity: 1;  
+cursor: pointer;
+svg{ 
+ fill:#e74b50;
+}
+}   
+ 

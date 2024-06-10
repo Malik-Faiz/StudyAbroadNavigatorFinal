@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" id="arrowdown">
+    <defs>
+        <clipPath id="ptriors9ta">
+            <path data-name="Rectangle 392" style="fill:none" d="M0 0h15v15H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 4" style="clip-path:url(#ptriors9ta)">
+        <path data-name="Path 8850" d="m-235.219 278.558 3.543-3.544c.14-.14.274-.285.421-.417a.858.858 0 0 1 1.252-.021.845.845 0 0 1-.045 1.251c-.967.988-1.951 1.959-2.929 2.937-.482.483-.963.967-1.448 1.447-.589.583-.987.59-1.561.019q-2.137-2.129-4.266-4.266c-.513-.514-.565-1.016-.158-1.406.392-.376.875-.321 1.368.171 1.256 1.254 2.51 2.513 3.823 3.829z" transform="translate(242.682 -268.312)"/>
+    </g>
+</svg>

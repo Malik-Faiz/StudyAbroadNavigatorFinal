@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(to right, #fff, #f9f9ff 51%, #fff);
+}
+
+.about-us-bg {
+  background-image: url("../images/background-image/aboutus-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.accordion-item {
+  box-shadow: 0 14px 15px 0 rgba(213, 218, 224, 0.25);
+}
+.accordion-item button:focus {
+  box-shadow: none;
+  background-color: white;
+}
+
+.accordion-button:not(.collapsed)::after {
+  --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%2300000'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E") !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 15px 30px 0 #f6f6f6;
+}/*# sourceMappingURL=aboutus.css.map */

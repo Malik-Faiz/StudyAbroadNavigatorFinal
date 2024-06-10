@@ -1,0 +1,61 @@
+// @media screen and (min-width: 1200px){
+.modal-full-width {
+    --bs-modal-width: 90% !important;
+}
+
+.modal-dialog .form-control:focus, .modal-dialog .form-select:focus
+     {
+        color: $text-color;
+        background-color: var(--bs-white);
+        border-color: var(--bs-primary);
+    }
+
+    .modal-dialog{
+        .form-select, .form-control {
+ 
+            color: $text-color;
+           
+        }
+        .form-select{
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='none' stroke='%23606478' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3E%3C/svg%3E");
+        }
+    }
+// upload-img
+.custom-uploadProfile{
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 105px;
+    height: 98px;
+    // background-color: $colorlight;
+box-shadow: 2px 5px 8px 0 rgba(0, 0, 0, 0.07);
+}
+
+.delete-icon-overlay{
+    position: absolute;
+    transition: 0.5s ease;
+    width: 24px;
+    height: 24px;
+    top: -5px;
+    left: 94px;
+opacity: 1;
+}
+.edit-icon-overlay{
+  position: absolute;
+  transition: 0.5s ease;
+  width: 24px;
+  height: 24px;
+  top: 83px;
+  left: 94px;
+opacity: 1;
+}
+.TrashIcon{
+    width: 23px;
+  height: 23px;
+  background-color:#f3f1f4;
+  border-radius: 50%;
+  border: none;
+  .fa-trash{
+    font-size:12px ;
+    color: #FC87A3;
+   }
+}
